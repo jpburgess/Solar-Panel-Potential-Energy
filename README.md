@@ -15,4 +15,10 @@ customize the api attributes based on features we need. Database converted to cs
 
 Can we find a relation between weather patterns and solar power generation to inform state governments of the potential for solar power in their states?
 
+Can we find a relation between weather patterns and solar power generation?
+
+How will state governments benefit from the findings of the relation between weather patterns and solar power generation?
+
+Can the study be used to promote investment in solar power generation facilities? 
+
 ### Communication Protocols:
