@@ -17,5 +17,7 @@ Can we find a relation between weather patterns and solar power generation to in
 
 Can we find a relation between weather patterns and solar power generation?
 
+How will state governments benefit from the findings of the relation between weather patterns and solar power generation?
+
 
 ### Communication Protocols:
